@@ -4,8 +4,6 @@
 
 FEPs are the blueprints, protocols, and playful prototypes shaping the next chapter of the internet under the **Web of Fun (WoF)** initiative. They exist to document ideas, standards, and open-source experiments aimed at taking back ownership of the web and building fair, decentralized digital experiences.
 
----
-
 ## The FEP Process
 
 Anyone can write and submit a FEP. Right now, the process includes a minor manual check to prevent spam, which will eventually be replaced by a permissionless Proof-of-Work (PoW) system. 
@@ -20,7 +18,6 @@ Here is how to get your FEP published and discussed:
 
 > **Note for Authors:** Once your FEP is live, you are responsible for maintaining your Discord thread, answering community questions, and updating your GitHub PR/Spec as the idea evolves. 
 
----
 
 ## FEP Statuses
 
@@ -30,7 +27,6 @@ Here is how to get your FEP published and discussed:
 * **Obsolete:** The FEP has been superseded by a newer FEP or is no longer relevant.
 * **Rejected:** The FEP was abandoned or deemed unworkable.
 
----
 
 ## FEP Structure
 
@@ -42,7 +38,6 @@ A good FEP should be concise, well-formatted, and easy to read. While we don't e
 * **Specification:** The technical details, logic, or blueprints of how it works.
 * **Implementation (Optional):** Links to any existing code or proof-of-concept.
 
----
 
 ## License
 
